@@ -2,6 +2,4 @@
 ReactNative를 이용한 쇼핑몰 앱 MVP입니다.
 
 ### 사용기술
-- JavaScript
-- ReactNative
-- CSS
+- JavaScript / ReactNative / CSS
