@@ -53,7 +53,7 @@ const HomeScreen = ({navigation}) => {
             사용자님만을 위한
             <Text style={styles.titlepurple}>큐레이션</Text>
           </Text>
-          <Text style={styles.text}>사용자님, 이 옷들은 어떠세요?</Text>
+          <Text style={styles.text}>사용자님, 이 옷들은 어떠세요??</Text>
         </Spacer>
         <View>
           <FlatList
